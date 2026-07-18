@@ -1,0 +1,3 @@
+build/
+*.exe
+com1.log
